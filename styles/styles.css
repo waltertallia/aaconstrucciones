@@ -1,0 +1,6 @@
+header .imagenPrincipal {
+    background-image: url(/assets/logo/AA.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
